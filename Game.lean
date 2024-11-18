@@ -1,4 +1,5 @@
 import GameServer.Commands
+import Game.Levels.Tutorial
 import Game.Levels.DivisibilityWorld
 
 -- Here's what we'll put on the title screen
