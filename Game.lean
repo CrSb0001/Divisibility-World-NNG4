@@ -1,5 +1,5 @@
 import GameServer.Commands
-import Game.Levels.DivisibilityWorld.lean
+import Game.Levels.DivisibilityWorld
 
 -- Here's what we'll put on the title screen
 Title "Divisibility World"
