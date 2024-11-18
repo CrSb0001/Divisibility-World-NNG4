@@ -14,8 +14,8 @@ World: CrSb0001
 Original game: adam.math.hhu.de
 "
 
-Dependency Algorithm → Divisibility
-Dependency AdvMultiplication → Divisibility
+Dependency Algorithm → DivisibilityWorld
+Dependency AdvMultiplication → DivisibilityWorld
 
 /-! Information to be displayed on the servers landing page. -/
 Languages "English"
